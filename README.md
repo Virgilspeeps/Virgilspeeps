@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Virgilspeeps
 - 👀 I’m interested in ...Front end web dev
 - 🌱 I’m currently learning ...HTML, CSS, Javascript, and python 
-- 💞️ I’m looking to collaborate on ...Gamedev, App Dev, and Algorithmic Trading. 
+- 💞️ I’m looking to collaborate on ...Anything and everything!
 - 📫 How to reach me ...Ihay@novazallc.com    
 
 <!---
